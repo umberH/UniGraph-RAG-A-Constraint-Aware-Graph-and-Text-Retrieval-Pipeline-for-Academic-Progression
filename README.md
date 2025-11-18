@@ -4,30 +4,7 @@
 ---
 
 ## 🎯 Abstract  
-Large Language Models (LLMs) increasingly rely on retrieval for reliable reasoning. Yet most Retrieval-Augmented Generation (RAG) systems underperform when tasks require integrating **structured graph data**, **unstructured policy documents**, and **explicit academic constraints**.
-
-**UniGraph-RAG** introduces a unified, constraint-aware retrieval pipeline that blends:
-
-- 🧭 **GraphRAG** over a domain Knowledge Graph  
-- 📄 **Document-level RAG** over policy and handbook sources  
-- 🔍 **Text-to-Cypher translation** for structure-aware query patterns  
-
-The system ingests heterogeneous sources, identifies key entities, aligns documents with graph nodes, and dynamically selects the appropriate retrieval mode based on query intent.
-
-To diagnose retrieval gaps, UniGraph-RAG includes a **retrieval-quality harness** that evaluates:
-
-- 🌐 Graph coverage  
-- ✔️ Constraint satisfaction  
-- 🔗 Graph–text coherence  
-- 📑 Evidence traceability  
-
-We demonstrate UniGraph-RAG in the academic advising domain, where reasoning requires reconciling **versioned curriculum graphs**, **dynamic student histories**, and **unstructured policy documents**. In systematic evaluations, UniGraph-RAG outperforms LLM-only, RAG-only, and KG-only baselines by producing:
-
-- 📘 More rule-compliant study plans  
-- ⚠️ Fewer prerequisite and progression violations  
-- ✨ Substantially reduced hallucination  
-
-These results highlight the decisive role of **high-quality, constraint-aware retrieval** in graph-dependent reasoning tasks.
+Large Language Models (LLMs) increasingly depend on retrieval for reliable reasoning. Yet, most Retrieval Augmentation Generation (RAG) systems underperform when tasks require integrating structured graph data, unstructured documents, and explicit constraints. We introduce UniGraph-RAG, a unified retrieval data pipeline that combines GraphRAG over a domain Knowledge Graph with document-level RAG and a text-to-Cypher translation layer. UniGraph-RAG ingests heterogeneous sources, identifies entities, aligns documents with graph nodes, and dynamically selects the appropriate retrieval mode based on query intent. A retrieval-quality harness evaluates graph and constraint coverage, graph–text coherence, and evidence traceability, enabling systematic diagnosis of retrieval gaps. We demonstrate UniGraph-RAG on academic advising, a scenario that requires accurate integration of graph-structured curricula with unstructured policy documents. In systematic evaluations, UniGraph-RAG outperforms LLM-only, RAG-only, and Graph-only baselines by producing more rule-compliant study plans, fewer constraint violations, and markedly reduced hallucination, highlighting the decisive role of retrieval quality in graph-dependent reasoning tasks.
 
 ---
 
