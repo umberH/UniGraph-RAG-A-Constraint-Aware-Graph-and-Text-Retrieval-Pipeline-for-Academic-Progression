@@ -12,6 +12,7 @@ Large Language Models (LLMs) increasingly depend on retrieval for reliable reaso
 
 ![Architecture Diagram of UniGraph-RAG](
 <img width="1334" height="941" alt="architecture_diagram (1)" src="https://github.com/user-attachments/assets/51cca46f-89b9-4536-8660-a76569f91554" />)
+<img width="1334" height="941" alt="architecture_diagram (1)" src="https://github.com/user-attachments/assets/51cca46f-89b9-4536-8660-a76569f91554" />
 
 
 ---
