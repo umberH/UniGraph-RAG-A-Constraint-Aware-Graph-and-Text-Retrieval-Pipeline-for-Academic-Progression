@@ -26,3 +26,6 @@ graph-dependent reasoning tasks.
 
 ![Uploading architecture_unigraph.drawio.png…](Architecture Diagram of UniGraph-RAG)
 <img width="1432" height="771" alt="architecture_unigraph drawio" src="https://github.com/user-attachments/assets/1e3863e7-5cd1-43f8-a906-3fca54a20154" />
+
+https://www.loom.com/share/904f27aaea064949ba7a1bce74cf32c0
+https://www.loom.com/share/904f27aaea064949ba7a1bce74cf32c0
