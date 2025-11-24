@@ -20,8 +20,15 @@ Large Language Models (LLMs) increasingly depend on retrieval for reliable reaso
 
 
 ## System Screenshots
-![Slide4](https://github.com/user-attachments/assets/e06e6aff-4bfb-4e24-b0a6-439466c29c92)
+Student Progression Dashboard
+<img width="1280" height="720" alt="Presentation1" src="https://github.com/user-attachments/assets/2ce3f983-9412-4020-91d5-ecf1101febbd" />
 
+Progression Map 
+
+<img width="531" height="498" alt="progression" src="https://github.com/user-attachments/assets/90b344d1-ea29-47eb-9ca7-a1363884e32b" />
+
+
+Student and Advisor Frontends
 <img width="3536" height="1083" alt="interface drawio" src="https://github.com/user-attachments/assets/0413ca8d-9da7-44c4-8ffa-798429db90e9" />
 
 
