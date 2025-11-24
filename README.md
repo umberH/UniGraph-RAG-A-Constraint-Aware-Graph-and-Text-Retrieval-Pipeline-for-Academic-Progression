@@ -18,7 +18,9 @@ Large Language Models (LLMs) increasingly depend on retrieval for reliable reaso
 ---
 
 
-## System Screen w
+
+## System Screenshots
+![Slide4](https://github.com/user-attachments/assets/e06e6aff-4bfb-4e24-b0a6-439466c29c92)
 
 <img width="3536" height="1083" alt="interface drawio" src="https://github.com/user-attachments/assets/0413ca8d-9da7-44c4-8ffa-798429db90e9" />
 
