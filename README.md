@@ -17,7 +17,11 @@ Large Language Models (LLMs) increasingly depend on retrieval for reliable reaso
 
 ---
 
+
 ## System Screen w
+
+<img width="3536" height="1083" alt="interface drawio" src="https://github.com/user-attachments/assets/0413ca8d-9da7-44c4-8ffa-798429db90e9" />
+
 
 ## 🎥 Demo Video  
 Walkthrough of the retrieval pipeline, constraint-checking workflow, and advising interactions:
